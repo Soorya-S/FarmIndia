@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/reg">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        >
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <LinearLayout
+                android:layout_height="180dp"
+                android:elevation="15dp"
+                android:clickable="true"
+                android:onClick="register_page1"
+                android:background="@drawable/rounded"
+                android:layout_marginTop="145dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="0dp"
+                android:layout_marginStart="0dp"
+                android:layout_width="170dp">
+
+
+                <TextView
+
+                    android:layout_width="165dp"
+                    android:layout_height="124dp"
+                    android:layout_marginLeft="5dp"
+                    android:textAlignment="center"
+                    android:textSize="29dp"
+                    android:clickable="true"
+                    android:onClick="register_page1"
+                    android:gravity="center"
+                    android:layout_marginTop="25dp"
+                    android:textColor="#1c0366"
+                    android:text="@string/REGISTER_AS_RETAILER" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_height="180dp"
+                android:elevation="16dp"
+                android:clickable="true"
+                android:onClick="register_page"
+                android:background="@drawable/rounded"
+                android:id="@+id/linearLayout"
+                android:layout_marginTop="180dp"
+                android:layout_alignTop="@+id/linearLayout3"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_width="170dp">
+
+
+                <TextView
+
+                    android:layout_width="165dp"
+                    android:layout_height="100dp"
+                    android:layout_marginLeft="5dp"
+                    android:textAlignment="center"
+                    android:textSize="29dp"
+                    android:clickable="true"
+                    android:onClick="register_page"
+                    android:gravity="center"
+                    android:layout_marginTop="45dp"
+                    android:textColor="#1c0366"
+                    android:text="@string/REGISTER_AS_FARMER"/>
+
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

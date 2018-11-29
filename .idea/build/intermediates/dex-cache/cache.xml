@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_672a2502745f075201585dd21bf0b719ef0a9e9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_45843175a02d942bce8aaeef1306307abe2c1a11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.3.1\be29b24233711c419ce935aa0a1b12ebc49d1c9a\firebase-client-android-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.3.1_645fcea1cd2b529d9133f4ae2647c9c0b7016924\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_67a7a1aad46ede464bf9a695a9ecfb49dcaedbbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\libs\CircleImageView-master\gradle\wrapper\gradle-wrapper.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d229475a85469cc6aab6348e8714bd1c1f833fb4">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\2\gradle-wrapper_caca64b7a4d597876dc28e7792d3e09854f042d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_4e9702d8b3e226e97849001cf6256c7e32a56fe5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_79f291e1e039560bf6b97af117f5a6ef730b2fd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_bf3612beb5df2542a1ef6e6c6e0f827fed34671e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4168319995df18be6de0e8be4eb1d10195bc2e54">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bb34e2955db425753aba7cb03697d23a0e355b54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_f08e1cb90017de06c9fc22d3bf8cadc7e50b4ea4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8c264e909970b83fee85e0802d34f5d6924fbedf">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_998e4da40081384eaec30e0bb1dcd289f6b89652\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_6ec17d4827cfed6f540f29d71b91e7ae83b8ca71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.11\d37cb67277928cf59344b4196af8d9cee1f1a27c\tubesock-0.0.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.11_22ba9672c5ca323f4fc7ba640602e9e53407c7c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_8ad54071497b3462090d26df551a9170aab9d835\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_be47e32030d0ab44e7ec4f729739541e3332e155\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-database-0.4.0_5474fb72afccaeea1af5558ec859f0306a43898b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_5a1167551ba4864daa4acdbb05fdf9440b9442cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_2c9f2d9dc4d4f26ddbf78dbc55a07637991d5df3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_4f2cbaaa06169b7eddf27ebabfec34d3b299e716\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_5153f01eb70356e6fba81136e884a503420d0369\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_d64c7b6e0928a489872f1012113b70815b50f64c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_59c6e965f20446ff519a2194f6988fc0dd891efc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.theartofdev.edmodo\android-image-cropper\2.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1a32a39a9fcae3d354a312cdb78c18159fa702e6">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.theartofdev.edmodo-android-image-cropper-2.3.1_714cb16c6bae8cec25bf9c066f10763e46104e28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_8d655cd4a48ebb3cb812fab79015e438c9b306dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_2dd7f9c482c0a91e8738386cfb66ffbb1bae3a47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_fb7cefc651df9b97d8c45797090e5072a7bf130e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_164ad179da047e19eba9a55d683b589d409bd920\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_4acfc41a17beb6df07e4572d6de3f90c8c2233e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_dcd446c01e6777e6f18ea4d8ff2438a9c4f174da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_7be64cc61038a4c1b0a2bb0086946ca12aaadf44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_b955a1043c1a71fa4e0140049d8cac63eeb1574e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_7a28eef47ebc480fd53098652e578cb77ceaea2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_a2fc28313c1998581d6c362870e63376b501ed53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.3.1\4d53b7d6983247af02b8fe7e4228fff555a5e828\firebase-client-jvm-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.3.1_b0cebd438784199b6c86efb7139befc90b84ebbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_262ef852875400f6c7e7f5689f679f813dee74b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_bc2864b7da718bd4c05623c47809d26f3020f4ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mugi_JR\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\Mugi_JR\Desktop\Findia\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_586d7e60f24549e762190b100936d4a1c87b27af\classes.dex" />
+    </item>
+
+</items>

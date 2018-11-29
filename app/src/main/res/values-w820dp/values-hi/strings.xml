@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NAME">नाम</string>
+    <string name="EMAIL">ईमेल</string>
+    <string name="PASSWORD">पासवर्ड</string>
+    <string name="LOG_IN">लॉग इन करें</string>
+    <string name="DESC_1">अभी तक पंजीकृत नहीं किया गया? यहां रजिस्टर करें</string>
+    <string name="REGISTER_AS_FARMER">किसान के रूप में रजिस्टर करें</string>
+    <string name="REGISTER_AS_RETAILER">रिटेलर के रूप में रजिस्टर करें</string>
+    <string name="FINISH">जमा करें</string>
+    <string name="PHONE_NUMBER">फ़ोन नंबर</string>
+    <string name="CITY">शहर</string>
+    <string name="CATEGORY">वर्ग</string>
+    <string name="REGISTER">रजिस्टर</string>
+    <string name="POST">पद</string>
+    <string name="TITLE">शीर्षक</string>
+</resources>

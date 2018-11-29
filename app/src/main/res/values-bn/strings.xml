@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NAME">নাম</string>
+    <string name="EMAIL">ইমেইল</string>
+    <string name="PASSWORD">পাসওয়ার্ড</string>
+    <string name="LOG_IN">লগিন করো ইন</string>
+    <string name="DESC_1">এখনো নিবন্ধিত নয়? এখানে নিবন্ধন করুন</string>
+    <string name="REGISTER_AS_FARMER">কৃষক হিসেবে নিবন্ধন</string>
+    <string name="REGISTER_AS_RETAILER">খুচরা বিক্রেতা হিসেবে নিবন্ধন</string>
+    <string name="FINISH">জমা দিন</string>
+    <string name="PHONE_NUMBER">ফোন নম্বর</string>
+    <string name="CITY">শহর</string>
+    <string name="CATEGORY">বিভাগ</string>
+    <string name="REGISTER">নিবন্ধন</string>
+    <string name="POST">পোস্ট</string>
+    <string name="TITLE">খেতাব</string>
+</resources>

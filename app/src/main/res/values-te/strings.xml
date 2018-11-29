@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NAME">పేరు</string>
+    <string name="EMAIL">ఇమెయిల్</string>
+    <string name="PASSWORD">పాస్వర్డ్</string>
+    <string name="LOG_IN">లాగ్ ఇన్</string>
+    <string name="DESC_1">ఇంకా నమోదు కాలేదు? ఇక్కడ నమోదు</string>
+    <string name="REGISTER_AS_FARMER">రైతులా నమోదు</string>
+    <string name="REGISTER_AS_RETAILER">రీటైలర్ గా నమోదు</string>
+    <string name="FINISH">ముగింపు</string>
+    <string name="PHONE_NUMBER">ఫోను నంబరు</string>
+    <string name="CITY">సిటీ</string>
+    <string name="CATEGORY">వర్గం</string>
+    <string name="REGISTER">నమోదు</string>
+    <string name="POST">పోస్ట్</string>
+    <string name="TITLE">శీర్షిక</string>
+</resources>

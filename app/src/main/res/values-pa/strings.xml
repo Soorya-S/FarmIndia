@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NAME">ਦਾ ਨਾਮ</string>
+    <string name="EMAIL">ਈ - ਮੇਲ</string>
+    <string name="PASSWORD">ਪਾਸਵਰਡ</string>
+    <string name="LOG_IN">ਲਾਗਿਨ</string>
+    <string name="DESC_1">ਅਜੇ ਤੱਕ ਰਜਿਸਟਰਡ ਨਾ? ਇੱਥੇ ਰਜਿਸਟਰ</string>
+    <string name="REGISTER_AS_FARMER">ਕਿਸਾਨ ਦੇ ਤੌਰ ਤੇ ਰਜਿਸਟਰ</string>
+    <string name="REGISTER_AS_RETAILER">ਵਿਕਰੇਤਾ ਦੇ ਤੌਰ ਤੇ ਰਜਿਸਟਰ</string>
+    <string name="FINISH">ਨੂੰ ਪੇਸ਼</string>
+    <string name="PHONE_NUMBER">ਫੋਨ ਨੰਬਰ</string>
+    <string name="CITY">ਸ਼ਹਿਰ</string>
+    <string name="CATEGORY">ਸ਼੍ਰੇਣੀ</string>
+    <string name="REGISTER">ਰਜਿਸਟਰ</string>
+    <string name="POST">ਪੋਸਟ</string>
+    <string name="TITLE">ਦਾ ਸਿਰਲੇਖ</string>
+</resources>

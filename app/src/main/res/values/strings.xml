@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Findia</string>
+    <string-array name="District">
+        <item>Select Option</item>
+        <item>Amritsar</item>
+        <item>Bhathinda</item>
+        <item>Barnala</item>
+        <item>Firozpur</item>
+        <item>Fazilka</item>
+        <item>Faridkot</item>
+        <item>Fathgarh</item>
+        <item>Gurudaspur</item>
+        <item>Hoshiarpur</item>
+        <item>Jalandhar</item>
+        <item>Kapurthala</item>
+        <item>Ludhiana</item>
+        <item>Mansa</item>
+        <item>Mogha</item>
+        <item>Pathankot</item>
+        <item>Patiala</item>
+        <item>Ruknagar</item>
+        <item>Sangrur</item>
+        <item>Shahid Bhagat Singh Nagar</item>
+        <item>Tarn Taran</item>
+    </string-array>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_language_splash">LanguageSplash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="NAME">Name</string>
+    <string name="EMAIL">Email</string>
+    <string name="PASSWORD">Password</string>
+    <string name="LOG_IN">Log In</string>
+    <string name="DESC_1">Not yet Registered? Register here</string>
+    <string name="REGISTER_AS_FARMER">Register as Farmer</string>
+    <string name="REGISTER_AS_RETAILER">Register as Retailer</string>
+    <string name="FINISH">Finish</string>
+    <string name="PHONE_NUMBER">Phone Number</string>
+    <string name="CITY">City</string>
+    <string name="CATEGORY">Category</string>
+    <string name="REGISTER">Register</string>
+    <string name="POST">Post</string>
+    <string name="TITLE">Title</string>
+
+</resources>

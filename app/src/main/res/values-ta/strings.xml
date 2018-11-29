@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NAME">பெயர்</string>
+    <string name="EMAIL">மின்னஞ்சல்</string>
+    <string name="PASSWORD">கடவுச்சொல்</string>
+    <string name="LOG_IN">உள் நுழை</string>
+    <string name="DESC_1">பதிவு செய்யவில்லையா? இங்கே பதிவு செய்யவும்</string>
+    <string name="REGISTER_AS_FARMER">விவசாயியாக பதிவு செய்</string>
+    <string name="REGISTER_AS_RETAILER">விற்பனையாளராக பதிவு செய்</string>
+    <string name="FINISH">சமர்ப்பி</string>
+    <string name="PHONE_NUMBER">தொலைபேசி எண்</string>
+    <string name="CITY">நகரம்</string>
+    <string name="CATEGORY">வகை</string>
+    <string name="REGISTER">பதிவு செய்</string>
+    <string name="POST">இடுக்கையிடு</string>
+    <string name="TITLE">தலைப்பு</string>
+    <string name="FILTER_BY_DIST">மாவட்டம் வாரியக தேடு</string>
+</resources>

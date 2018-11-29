@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NAME">പേര്</string>
+    <string name="EMAIL">ഇമെയിൽ</string>
+    <string name="PASSWORD">പാസ്വേഡ്</string>
+    <string name="LOG_IN">ലോഗ് ഇൻ</string>
+    <string name="DESC_1">ഇതുവരെയും രജിസ്റ്റർ? ഇവിടെ രജിസ്റ്റർ</string>
+    <string name="REGISTER_AS_FARMER">കർഷക രജിസ്റ്റര്</string>
+    <string name="REGISTER_AS_RETAILER">വിൽപ്പനക്കാരനെ ആയി രജിസ്റ്റർ</string>
+    <string name="FINISH">സമർപ്പിക്കുക</string>
+    <string name="PHONE_NUMBER">ഫോൺ നമ്പർ</string>
+    <string name="CITY">നഗരം</string>
+    <string name="CATEGORY">വിഭാഗം</string>
+    <string name="REGISTER">പട്ടിക</string>
+    <string name="POST">ഇതുക്കൈയിതു</string>
+    <string name="TITLE">തലക്കെട്ട്</string>
+</resources>
